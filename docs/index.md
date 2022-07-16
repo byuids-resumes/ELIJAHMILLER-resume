@@ -17,7 +17,8 @@ Experienced Equities Trader working in the business valuations space
 
 `Expected July 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
-
+#### Bachelor of Financial Economics
+#### Certificate in Data Science
 - GPA: 3.88
 - Select Coursework: Accounting, Economics, Business Statistics, Excel & VBA, Python, MySQL Databases, Professional Writing
 

@@ -40,6 +40,7 @@ __Pivotal Tax Solutions__, Remote
 -	Prepared valuation reports to present to clients and appeal property taxes
 -	Assisted in a variety of valuation, legal, and clerical functions
 
+### Business & Finance Manager
 
 `June 2019 - December 2019`
 __Schomp BMW__, Denver, CO
